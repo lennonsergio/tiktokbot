@@ -3,5 +3,5 @@
     "service": "Views",
     "comment_id": 7350532178797380353,
     "proxy": null,
-    "captcha_auto_solve": true
+    "captcha_auto_solve": false
 }
